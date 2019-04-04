@@ -48,7 +48,6 @@ private:
 	/********************************/
 	/*  User Variables              */
 	Board board;
-
 	Tile tiles[numXTiles][numYTiles];
 	/********************************/
 };

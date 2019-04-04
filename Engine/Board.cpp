@@ -12,8 +12,3 @@ void Board::draw(Graphics & gfx) const
 		}
 	}
 }
-
-void Board::draw(Graphics & gfx) const
-{
-	
-}

@@ -1,7 +1,6 @@
 #pragma once
 
 #include "Graphics.h"
-#include "Game.h"
 
 class Board
 {
